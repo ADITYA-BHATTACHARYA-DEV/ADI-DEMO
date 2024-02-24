@@ -1,2 +1,3 @@
 # ADI-DEMO
-FIRST GIT REPOSSITORY
+FIRST GIT REPOSITORY
+Author:-Aditya Bhattacharya
